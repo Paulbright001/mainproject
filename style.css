@@ -1,0 +1,58 @@
+.container1{
+    display:flex;
+    padding: 150px;
+    width: 100%;
+    background-color: hsl(30, 38%, 92%);
+
+}
+.container3{
+    display:flex ; 
+    margin-top: 20px;
+}
+.me{
+    margin-left: 40px; text-decoration: line-through;
+    margin-top: 15px;
+    color: hs1(228, 12%, 48%);
+
+}
+.you{
+    color: hsl(158, 36%, 37%);
+
+    font-size: 40px;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+     padding: 50px;
+     background-color: white;
+     width: 50%
+    
+}
+button{
+    display:flex ;
+    width:200px;
+    justify-content:center;
+    border-radius: 8px;
+    height: 40px;
+    border: none;
+    margin-top:20px;
+    background-color: hsl(158, 36%, 37%);
+
+}
+.addcart{
+    margin-top: 12px;
+
+
+}
+.cart{
+    color: white;
+    margin-left: 10%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: hsl(30, 38%, 92%);
+}
